@@ -1,2 +1,0 @@
-# projeto-git
-meus comandos
